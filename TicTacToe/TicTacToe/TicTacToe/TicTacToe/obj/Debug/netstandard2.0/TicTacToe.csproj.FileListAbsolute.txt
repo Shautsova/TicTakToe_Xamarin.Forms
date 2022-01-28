@@ -1,0 +1,30 @@
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csprojAssemblyReference.cache
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+C:\Users\Arsen Liush\source\repos\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.AssemblyReference.cache
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
+D:\TicTacToe\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\Page1.xaml.g.cs

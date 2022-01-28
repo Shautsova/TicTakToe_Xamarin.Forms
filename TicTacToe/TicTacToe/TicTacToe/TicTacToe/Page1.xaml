@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.Page1"
+             Title="Page1">
+    <ContentPage.Content>
+       
+        <StackLayout>
+
+            <Grid  BackgroundColor="#F1EFED">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label Text="TicTacToe"  VerticalOptions="Center" HorizontalOptions="Center" FontSize="50" Grid.Row="0"  Grid.Column="0" Grid.ColumnSpan="3" Padding="15" Margin="10" />
+                <Button x:Name="btn1"  FontSize="Large" Grid.Row="1" Grid.Column="0" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn2"  FontSize="Large" Grid.Row="1" Grid.Column="1" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn3"  FontSize="Large" Grid.Row="1" Grid.Column="2" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn4"  FontSize="Large" Grid.Row="2" Grid.Column="0" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn5"  FontSize="Large" Grid.Row="2" Grid.Column="1" BackgroundColor="#EEAC4C" />
+                <Button x:Name="btn6"  FontSize="Large" Grid.Row="2" Grid.Column="2" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn7"  FontSize="Large" Grid.Row="3" Grid.Column="0" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn8"  FontSize="Large" Grid.Row="3" Grid.Column="1" BackgroundColor="#EEAC4C"/>
+                <Button x:Name="btn9"  FontSize="Large" Grid.Row="3" Grid.Column="2" BackgroundColor="#EEAC4C"/>
+                <Label x:Name="labInfo"  VerticalOptions="Center" HorizontalOptions="Center" FontSize="25" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="3"/>
+                <Button x:Name="btnNewGame" Text="NewGame" FontSize="25" Grid.Row="5"  Grid.Column="0" Grid.ColumnSpan="3"  BackgroundColor="#E58905" Clicked="btnNewGame_Clicked" />
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

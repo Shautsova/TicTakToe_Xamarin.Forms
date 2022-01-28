@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.MainPage"
+             Title="MainPage">
+
+    <StackLayout BackgroundColor="#F1EFED">
+        <Label Text="Welcome to the TicTacToe game!" VerticalOptions="Center" HorizontalOptions="Center" FontSize="50" Padding="15" Margin="10" />
+        <Label  x:Name="InfoL" Text="before starting, please enter the names of the players:"   VerticalOptions="Center" FontSize="25" Padding="15" Margin="10"  />
+        <Editor Placeholder="Player 1" x:Name="player1"  BackgroundColor="#EEAC4C" Margin="15" />
+        <Editor Placeholder="Player 2" x:Name="player2" BackgroundColor="#EEAC4C" Margin="15"/>
+        <Button x:Name="NextPage" Text="Start!" FontSize="25" Padding="15" Margin="10, 30 , 10 , 10" BackgroundColor="#E58905" />
+        
+    </StackLayout>
+    
+</ContentPage>
